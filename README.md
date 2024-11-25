@@ -45,11 +45,6 @@ Desarrollada utilizando:
 
 ---
 
-## Ejemplo visual
-
-![Ejemplo de tabla](https://via.placeholder.com/800x400?text=Captura+de+ejemplo) <!-- Cambia este enlace por una captura real -->
-
----
 
 ## Cómo usar
 
