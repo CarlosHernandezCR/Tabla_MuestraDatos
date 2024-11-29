@@ -52,16 +52,18 @@ Desarrollada utilizando:
 - **Adaptabilidad:** Fácil integración en cualquier página.
 - **Propósito:** Gestión eficiente de datos para edición, visualización o eliminación según las necesidades.
 
-![Visualización y eliminación de registro](images/mostrarRegistro.png)
-
 ### 6. Visualización completa de datos y/o posible eliminación
 - Al clicar tanto en el botón de eliminar como en una de las líneas, se mostrará un Dialog con 2 scrollers en los que se podrán ver los datos con sus nombres completos del registro. En la opción de eliminar, estarán los botones para confirmar y otra confirmación extra debido a que es una función que hay que manejar con cautela.
   - **Adaptabilidad:** La eliminación del dato tiene la llamada lista para poder adaptarse fácilmente a lo que se requiera.
+
+![Visualización y eliminación de registro](images/mostrarRegistro.png)
 
 ### 7. Formato móvil
 - Formato reactivo a las resoluciones de la pantalla y con los siguientes cambios en tamaño para dispositivos móviles:
   1. **Paginación:** 5 botones: primera página, anterior, página actual, siguiente página y última página.
   2. **Botones nuevos:** Necesidad de poner botones para buscar y para cambiar tamaño de página debido a la ausencia de la tecla "Enter" en el dispositivo móvil.
+
+![Visualización y eliminación de registro](images/tablaFormatoMovil.png)
 
 ---
 
