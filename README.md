@@ -48,6 +48,8 @@ Desarrollada utilizando:
   - **Sin ordenación**
 - **Ventaja:** Mejora la experiencia del usuario al trabajar con grandes conjuntos de datos.
 
+![Ordenación de datos](images/ordenacion.png)
+
 ### 5. Edición, visualización y eliminación de registros
 - **Adaptabilidad:** Fácil integración en cualquier página.
 - **Propósito:** Gestión eficiente de datos para edición, visualización o eliminación según las necesidades.
@@ -63,7 +65,7 @@ Desarrollada utilizando:
   1. **Paginación:** 5 botones: primera página, anterior, página actual, siguiente página y última página.
   2. **Botones nuevos:** Necesidad de poner botones para buscar y para cambiar tamaño de página debido a la ausencia de la tecla "Enter" en el dispositivo móvil.
 
-![Visualización y eliminación de registro](images/tablaFormatoMovil.png)
+![Tabla reactiva en formato móvil](images/tablaFormatoMovil.png)
 
 ---
 
