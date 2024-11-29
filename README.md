@@ -50,8 +50,8 @@ Desarrollada utilizando:
 
 ### 7. Formato movil
 - Formato reactivo a las resoluciones de la pantalla y con los siguientes cambios en tamaño para dispositivos movil:
-  - **Paginacion:** 5 botones, primera página, anterior, página actual, siguiente página y última página
-  - **Botones nuevos:** necesidad de poner botones para buscar y para cambiar tamaño de página debido a la ausencia de la tecla "Enter" en el dispositivo movil.
+  1. **Paginacion:** 5 botones, primera página, anterior, página actual, siguiente página y última página
+  2. **Botones nuevos:** necesidad de poner botones para buscar y para cambiar tamaño de página debido a la ausencia de la tecla "Enter" en el dispositivo movil.
 
 ---
 
