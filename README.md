@@ -1,6 +1,6 @@
 # Tabla_MuestraDatos
 
-**Tabla dinámica de datos desarrollada durante mis prácticas en Applus**, enfocada en su **multi-funcionalidad** y **compatibilidad** con múltiples endpoints propios de la empresa.
+**Tabla dinámica de datos desarrollada durante mis prácticas en Applus para Orange**, enfocada en su **multi-funcionalidad** y **compatibilidad** con múltiples endpoints propios de la empresa.
 
 Desarrollada utilizando:
 - **Framework:** [Vue.js](https://vuejs.org/)
