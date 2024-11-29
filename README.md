@@ -14,6 +14,7 @@ Desarrollada utilizando:
 - **Descripción:** Muestra los datos recibidos desde el endpoint con soporte para:
   - Parámetros de número de página y tamaño de la página.
   - Cálculo de la página máxima mediante una llamada de conteo de datos, útil al buscar múltiples registros.
+  - Cálculo de posicion de dato: si se disminuye el tamaño de la pagina, se calculará la página en la que aproximadamente se encontrará el dato que se estaba viendo(más          precisión con los primeros datos de la página)
 - **Ventaja:** Optimiza el rendimiento al gestionar grandes volúmenes de datos.
 
 ### 2. Búsqueda
@@ -22,7 +23,7 @@ Desarrollada utilizando:
   - Búsqueda múltiple por diferentes columnas.
   - Búsqueda con calendario para columnas de tipo fecha:
     - `Antes de...`
-    - `Después de...`
+    - `Después de...` (Con opcion de elegir ultima semana/mes/año)
     - `Entre fechas`
 
 ### 3. Generar Gráfica
@@ -43,8 +44,12 @@ Desarrollada utilizando:
 - **Adaptabilidad:** Fácil integración en cualquier página.
 - **Propósito:** Gestión eficiente de datos para edición, visualización o eliminación según las necesidades.
 
----
+### 6. Formato movil
+- Formato reactivo a las resoluciones de la pantalla y con los siguientes cambios en tamaño para dispositivos movil:
+  **Paginacion**: 5 botones, primera página, anterior, página actual, siguiente página y última página
+  **Botones nuevos**: necesidad de poner botones para buscar y para cambiar tamaño de página debido a la ausencia de la tecla "Enter" en el dispositivo movil.
 
+---
 
 ## Cómo usar
 
