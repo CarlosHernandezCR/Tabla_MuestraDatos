@@ -1,0 +1,51 @@
+@import './base.css';
+
+table {
+  background-color: var(--color-background-soft);
+  color: var(--color-text);
+  border: 1px solid var(--color-border);
+}
+
+th, td {
+  padding: 0.5rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+th {
+  background-color: var(--color-background-mute);
+  color: var(--color-heading);
+}
+
+button {
+  background-color: var(--color-background);
+  color: var(--color-heading);
+  border: 1px solid var(--color-border);
+}
+
+button:hover {
+  background-color: var(--color-background-mute);
+  color: var(--color-heading);
+}
+.p-datatable.p-datatable-sm .p-datatable-tbody > tr > td {
+  padding: 0.05rem 0.5rem !important;
+}
+.p-datatable-header-cell{
+  border: solid, 1px,#ff6600 !important;
+  padding: 0% !important;
+}
+.p-datatable-column-header-content{
+  gap:0 !important;
+  justify-content: space-between;
+}
+.p-datatable-tbody > tr > td {
+  border-color: #ff6600 !important;
+}
+.data-row[data-v-3cd232a5] {
+  height: fit-content !important;
+}
+.data-key[data-v-3cd232a5], .data-value[data-v-3cd232a5]{
+  padding: 0.6% !important;
+}
+.p-dialog-header{
+  padding: 0% !important;
+}
