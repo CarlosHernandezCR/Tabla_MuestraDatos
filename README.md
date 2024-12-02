@@ -27,8 +27,8 @@ Desarrollada utilizando:
   - Búsqueda múltiple por diferentes columnas.
   - Búsqueda con calendario para columnas de tipo fecha:
     - `Antes de...`
-    - `Después de...` (Con opción de elegir última semana/mes/año).
-    - `Entre fechas`
+    - `Después de...` 
+    - `Entre fechas` (Con opción de elegir última semana/mes/año).
 
 ![Búsqueda dinámica](images/busqueda.png)
 ![Búsqueda por fecha](images/buscarFecha.png)
