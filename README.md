@@ -28,7 +28,7 @@ Desarrollada utilizando:
   - Búsqueda con calendario para columnas de tipo fecha:
     - `Antes de...`
     - `Después de...` (Con opción de elegir última semana/mes/año).
-    - `Entre fechas`.
+    - `Entre fechas`
 
 ![Búsqueda dinámica](images/busqueda.png)
 ![Búsqueda por fecha](images/buscarFecha.png)
