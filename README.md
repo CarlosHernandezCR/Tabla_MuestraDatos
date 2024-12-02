@@ -39,7 +39,8 @@ Desarrollada utilizando:
 - **Casos de uso:** Visualización rápida y análisis de patrones en los datos.
 
 ![Generación de gráfica](images/generandoGrafica.png)
-![Gráfico de datos múltiples](images/graficaContandoPorNumeroDeRegistros.png)
+![Gráfico de datos contados por numero de registros](images/graficaContandoPorNumeroDeRegistros.png)
+![Gráfico de datos múltiples](images/graficaContandoMultiplesNumerosdeRegistros.png)
 
 ### 4. Ordenación de datos
 - Iconos interactivos para ordenar los datos de cada columna:
