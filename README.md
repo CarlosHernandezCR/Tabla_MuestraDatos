@@ -82,7 +82,6 @@ Desarrollada utilizando:
    ```bash
    npm install
 
-   npm install
 3. **Ejecución**
    ```bash
    npm run dev
