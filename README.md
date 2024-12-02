@@ -18,6 +18,8 @@ Desarrollada utilizando:
 - **Ventaja:** Optimiza el rendimiento al gestionar grandes volúmenes de datos.
 
 ![Tabla de paginación](images/tabla.png)
+![Tabla en formato diurno](images/tabla_diurno.png)
+
 
 ### 2. Búsqueda
 - **Búsqueda dinámica:** Llamadas al endpoint según los parámetros seleccionados.
