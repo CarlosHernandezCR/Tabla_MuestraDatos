@@ -1,6 +1,6 @@
 # Tabla_MuestraDatos
 
-**Tabla dinámica de datos desarrollada durante mis prácticas en Applus para Orange**, enfocada en su **multi-funcionalidad** y **compatibilidad** con múltiples endpoints propios de la empresa.
+**Tabla dinámica de datos desarrollada durante mis prácticas en Applus para Orange**, enfocada en su **multi-funcionalidad** y **compatibilidad** con múltiples endpoints propios de la empresa con llamadas asíncronas.
 
 Desarrollada utilizando:
 - **Framework:** [Vue.js](https://vuejs.org/)
@@ -18,6 +18,8 @@ Desarrollada utilizando:
 - **Ventaja:** Optimiza el rendimiento al gestionar grandes volúmenes de datos.
 
 ![Tabla de paginación](images/tabla.png)
+![Tabla en formato diurno](images/tabla_diurno.png)
+
 
 ### 2. Búsqueda
 - **Búsqueda dinámica:** Llamadas al endpoint según los parámetros seleccionados.
@@ -25,8 +27,8 @@ Desarrollada utilizando:
   - Búsqueda múltiple por diferentes columnas.
   - Búsqueda con calendario para columnas de tipo fecha:
     - `Antes de...`
-    - `Después de...` (Con opción de elegir última semana/mes/año).
-    - `Entre fechas`.
+    - `Después de...` 
+    - `Entre fechas` (Con opción de elegir última semana/mes/año).
 
 ![Búsqueda dinámica](images/busqueda.png)
 ![Búsqueda por fecha](images/buscarFecha.png)
@@ -80,7 +82,6 @@ Desarrollada utilizando:
    ```bash
    npm install
 
-   npm install
 3. **Ejecución**
    ```bash
    npm run dev
